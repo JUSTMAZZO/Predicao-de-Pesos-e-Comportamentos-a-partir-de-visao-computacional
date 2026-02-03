@@ -1,4 +1,4 @@
-# 🐖: CattleWeight-AI: Predição de Peso Bovino em Tempo Real
+# 🐖: CattleWeight-AI: Predição de Peso Suíno em Tempo Real
 
 Este projeto utiliza visão computacional 3D e Deep Learning para realizar a predição de peso de esuínos em tempo real utilizando câmeras de profundidade **Intel RealSense**. A solução integra dados de sensores RGB-D com metadados zootécnicos (raça, idade, hormônios) para uma estimativa precisa sem estresse animal.
 
